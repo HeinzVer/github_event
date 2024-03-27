@@ -1,2 +1,2 @@
 # github_event
-DtatSientest excercise
+DataSientest excercise
